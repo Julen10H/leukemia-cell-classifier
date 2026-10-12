@@ -5,6 +5,6 @@ __pycache__/
 .vscode/
 
 # Datos y modelos pesados
-data/
+/data/
 models/*.pt
 models/*.pth
